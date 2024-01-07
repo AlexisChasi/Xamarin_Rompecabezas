@@ -1,29 +1,39 @@
----
-name: Xamarin.Forms - Xuzzle picture game
-description: "A variation of the classic 14-15 slider picture puzzle, built with Xamarin.Forms (game)"
-page_type: sample
-languages:
-- csharp
-products:
-- xamarin
-extensions:
-    tags:
-    - game
-urlFragment: liveplayer-xamagonxuzzlelp
----
-# Xuzzle
+# Rompecabezas_Xamarin
 
-This is a variation of the classic 14-15 puzzle. On the early Mac, the 14-15 program was called PUZZLE.
-In early Windows, it was the only sample
-application for Microsoft Pascal for Windows 1.0, where it was called MUZZLE (for "Microsoft Puzzle").
-This is the Xamarin.Forms version, so it's called Xuzzle, and the 15 tiles contain the Xamarin logo.
+# INTEGRANTES:
+- Alexis Chasi
+- Elvis Guanoluisa
+- Robert Shiao
 
-![Mobile app slider puzzle of Xamarin logo](Screenshots/app.png)
+# MODIFICACIONES
+1.- IMAGEN DE PRUEBA
 
-After pressing the Randomize button, just tap a tile to move it into an empty position.
-You can *tap* any tile in the row or column
-of the empty position to move one, two, or three tiles at once.
+Se realizo las prubas correspondientes para verificar si en la aplicacion se refleja la imagen seleccionada.
 
-When you successfully complete the puzzle, you'll be rewarded with an animation.
+![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/ba00fe1a-56c5-4606-ab36-8f2975b538f4)
 
-This program is adapted from https://github.com/xamarin/xamarin-forms-book-samples/tree/master/Chapter22/XamagonXuzzle.
+2.- DIVISION DE LA IMAGEN DE PRUEBA
+
+Una vez verificada se procedio a dividir la imagen en una GRID 4x4
+
+![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/2623c8bf-5241-4064-a056-27e90e971891)
+
+3.- IMAGEN DIVIDIDA 4X4
+
+Se coloco las imagenes dentro del proyecto y se modifico el codigo para poder usarlas
+
+![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/8e971a51-b9eb-4ab9-bcb0-8deaca9725cd)
+
+
+![WhatsApp Image 2024-01-07 at 5 09 42 PM](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/18a2a808-245d-4346-baa1-e8eca0541ec3)
+
+
+
+4.- RANDOMIZADO
+
+![WhatsApp Image 2024-01-07 at 5 13 45 PM](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/4445cc9b-acf5-4709-910a-609f0a65d103)
+
+5.- CODIGO MODIFICADO
+
+![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/5553db57-2eb8-4f8d-9f56-d32d6c1543d6)
+
