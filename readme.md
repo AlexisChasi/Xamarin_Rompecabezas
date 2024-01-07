@@ -10,30 +10,35 @@
 
 Se realizo las prubas correspondientes para verificar si en la aplicacion se refleja la imagen seleccionada.
 
-![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/ba00fe1a-56c5-4606-ab36-8f2975b538f4)
+![WhatsApp Image 2024-01-07 at 4 40 07 PM](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/fc93b2fd-ea5c-44f9-a7fe-dc198824bff2)
+
 
 2.- DIVISION DE LA IMAGEN DE PRUEBA
 
 Una vez verificada se procedio a dividir la imagen en una GRID 4x4
 
-![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/2623c8bf-5241-4064-a056-27e90e971891)
+![image](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/7afaaaa5-147c-403d-b146-d5f3edbf3dfa)
+
 
 3.- IMAGEN DIVIDIDA 4X4
 
 Se coloco las imagenes dentro del proyecto y se modifico el codigo para poder usarlas
 
-![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/8e971a51-b9eb-4ab9-bcb0-8deaca9725cd)
+![image](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/91c89866-616f-4a5a-a850-7ebf5bc3548b)
 
 
-![WhatsApp Image 2024-01-07 at 5 09 42 PM](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/18a2a808-245d-4346-baa1-e8eca0541ec3)
+
+![WhatsApp Image 2024-01-07 at 5 09 42 PM](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/74b1a2db-803f-428c-aadb-9b2d59ba853b)
+
 
 
 
 4.- RANDOMIZADO
 
-![WhatsApp Image 2024-01-07 at 5 13 45 PM](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/4445cc9b-acf5-4709-910a-609f0a65d103)
+![WhatsApp Image 2024-01-07 at 5 13 45 PM](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/d4e66bf6-1b98-40ab-b6b9-dbda2efb38d4)
+
 
 5.- CODIGO MODIFICADO
+![image](https://github.com/AlexisChasi/Xamarin_Rompecabezas/assets/117754026/5714b5a8-d5af-4e08-91e2-a383525b946e)
 
-![image](https://github.com/AlexisChasi/Rompecabezas_Xamarin/assets/117754026/5553db57-2eb8-4f8d-9f56-d32d6c1543d6)
 
