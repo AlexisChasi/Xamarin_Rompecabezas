@@ -1,9 +1,6 @@
 # Rompecabezas_Xamarin
 
-# INTEGRANTES:
-- Alexis Chasi
-- Elvis Guanoluisa
-- Robert Shiao
+
 
 # MODIFICACIONES
 1.- IMAGEN DE PRUEBA
